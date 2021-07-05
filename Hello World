@@ -1,0 +1,6 @@
+program HelloWorld;
+uses clrscr;
+begin
+	writeln('Hello World!');
+	readln;
+end.
