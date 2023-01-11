@@ -1,9 +1,7 @@
-Full name: Quach Anh Hao
+Full name: Quach Anh Hao.
 
-VietNamese name: Quách Anh Hào
+Date of birth: 30/01/2001.
 
-Date of birth: 30/01/2001
+University: Ho Chi Minh City University Of Technology.
 
-University: HCM City University Of Technology
-
-Programming language: C++ HTML CSS Javascript ReactJS NodeJS
+Programming language: C++ HTML CSS Javascript ReactJS NodeJS.
