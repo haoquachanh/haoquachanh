@@ -1,3 +1,4 @@
-Backend, fullstack.
+< fullstack | Backend >
 
-Programming language: C++, HTML, CSS, JS, TS, ReactJS.
+Programming language: JavaScript, Typescript.
+Framework/Lib: ExpressJS, NestJS, NextJS, ReactJS
