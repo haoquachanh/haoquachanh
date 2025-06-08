@@ -1,7 +1,7 @@
 # 🌟 **Welcome to my GitHub Profile!** 🌟
 
 ## 👨‍💻 **About Me**
-Hi there! I'm a passionate **Fullstack | Backend Developer** specializing in modern web technologies.  
+Hi there! I'm a passionate **Backend Developer (Fullstack)** specializing in modern web technologies.  
 I enjoy crafting scalable, efficient, and user-friendly solutions to bring ideas to life.  
 
 ---
