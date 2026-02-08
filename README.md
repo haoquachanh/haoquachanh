@@ -1,12 +1,12 @@
-# 🌟 **Welcome to my GitHub Profile!** 🌟
+#  **Welcome to my GitHub Profile!** 
 
-## 👨‍💻 **About Me**
+## **About Me**
 Hi there! I'm a passionate **Backend Developer (Fullstack)** specializing in modern web technologies.  
 I enjoy crafting scalable, efficient, and user-friendly solutions to bring ideas to life.  
 
 ---
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 ### 🔹 Programming Languages:
    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
