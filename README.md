@@ -12,11 +12,11 @@ I enjoy crafting scalable, efficient, and user-friendly solutions to bring ideas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🔹 Frameworks & Libraries:
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 
 
 ---
