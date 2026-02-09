@@ -1,6 +1,6 @@
 # **Welcome to my GitHub Profile!**
 
-⭐️ *"On a journey of a hundred miles, ninety is but half the way."*
+⭐️ *"At 90%, the real work begins."*
 ---
 
 ## **Tech Stack**
